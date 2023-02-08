@@ -1,0 +1,8 @@
+#include <iostream>
+
+using namespace std;
+int main()
+{
+	cout << "\u250C\u252C\u2510\n\u251c\u253c\u2524\n\u2514\u2534\u2518" << endl; // ┌ 같은것들이 출력이 안되므로 유니코드를 사용.
+	return 0;
+}
